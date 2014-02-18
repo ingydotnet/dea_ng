@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:cloudfoundry/heroku-buildpack-nodejs.git
+	branch = master
+	commit = 0758a34ce5f5908fc4237b0061a5aa238f7c3724
+	former = d77b61099d2615885aef5ed39bca5fb6e7f5d73e
+	cmdver = 0.1.0
