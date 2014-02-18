@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:cloudfoundry/heroku-buildpack-ruby.git
+	branch = master
+	commit = 2fc4ad8b6bdea30eb18fdd65207637f02da3e130
+	former = 7eddfb304cbe6ceaa74a70fd0e2038360fb6251a
+	cmdver = 0.1.0
